@@ -1,7 +1,7 @@
 ![Linkedin_Cover](https://media.licdn.com/dms/image/D4D16AQHAFCagx9kJuA/profile-displaybackgroundimage-shrink_350_1400/0/1680262091689?e=1686182400&v=beta&t=DP5YgY_FVvomWXe78qq0WkLOe2Dz2V56SLIiXrbP83g)
 
 <h1 align="center">Hi 👋, I'm Sowmiya </h1>
-<h3 align="center">A passionate Data Science Enthusiast</h3>
+<h3 align="center">A passionate Data Science & AI enthusiast</h3>
 
 - 🌱 I love learning as a process and mostly about new things...
 
