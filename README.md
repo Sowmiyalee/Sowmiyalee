@@ -26,7 +26,7 @@
 
 <img align="left" alt="excel" height="40" src="https://d3j0t7vrtr92dk.cloudfront.net/stembakuniversity/1616519913_png-clipart-microsoft-excel-computer-icons-microsoft-template-angle-removebg-preview.png" />
 
-<img align="left" src="https://user-images.githubusercontent.com/94888819/179531328-610ccc8c-11cc-40cf-82dc-5902d473b7e1.png" alt="tab" width="60" height="60"/> </a>
+<img align="left" src="https://user-images.githubusercontent.com/94888819/179531328-610ccc8c-11cc-40cf-82dc-5902d473b7e1.png" alt="tab" width="80" height="80"/> </a>
 
 <img align="left" alt="jn" height="50" src="https://user-images.githubusercontent.com/94888819/179537708-2241ab23-8c86-40c6-8fa9-f3979be75ade.png" width="60" height="60"/> </a>
 
