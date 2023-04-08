@@ -40,7 +40,8 @@
 ## `Connect with me:`
 <p align="left">
 <a href="https://www.linkedin.com/in/sowmiya-kumaresan-15b624100/" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="Sowmiyalee" height="60" width="60" /></a>
-<a href="sowmiyaleechan@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="40" width="40" /></a>
+<a href="mailto:sowmiyaleechan@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="40" width="40" /></a>
+
 </p>
 
 ![Filter Method](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
