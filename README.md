@@ -18,6 +18,7 @@
 - 📫 You can reach me on my email id **sowmiyaleechan@gmail.com**
 
 <img align="right" alt="code"  height="200" width="300" src = "https://media.tenor.com/2SeTinGEKNQAAAAd/codelikeagirl.gif">
+</p>
 
 ## `Tools:`
 <img align="left" src="https://user-images.githubusercontent.com/94888819/179538709-781ca826-4b36-42e7-aeda-ad6b07e719ea.png" alt="pp" width="50" height="50" /> </a>
