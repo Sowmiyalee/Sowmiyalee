@@ -5,7 +5,7 @@
 
 - 🌱 I love learning as a process and mostly about new things...
 
-- 🔭 I’m currently working as an Sebior Globalk Buisness Analyst at <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HP_logo_2012.svg/1200px-HP_logo_2012.svg.png" alt="Sowmiya" height="20" width="60" /></a>
+- 🔭 I’m currently working as an Senior Global Buisness Analyst at <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HP_logo_2012.svg/1200px-HP_logo_2012.svg.png" alt="Sowmiya" height="20" width="60" /></a>
 
 - 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 
