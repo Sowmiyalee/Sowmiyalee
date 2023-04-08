@@ -38,10 +38,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
 </a> 
 </p>
-
-## `Connect with me:`
 <p align="left">
-<p align="center"> <a href="https://www.linkedin.com/in/sowmiya-kumaresan-15b624100/" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="Sowmiyalee" height="60" width="60" /></a>
+## `Connect with me:`
+<a href="https://www.linkedin.com/in/sowmiya-kumaresan-15b624100/" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="Sowmiyalee" height="60" width="60" /></a>
 <a href="mailto:sowmiyaleechan@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="50" width="50" /></a>
 </p>
 
