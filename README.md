@@ -27,21 +27,21 @@
 </p>
 
 ## `Tools:`
-<img align="left" src="https://user-images.githubusercontent.com/94888819/179538709-781ca826-4b36-42e7-aeda-ad6b07e719ea.png" alt="pp" width="40" height="40" /> 
+<img align="left" src="https://user-images.githubusercontent.com/94888819/179538709-781ca826-4b36-42e7-aeda-ad6b07e719ea.png" alt="pp" width="60" height="60" /> 
 
-<img align="left" alt="Anaconda" height="40" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/icons8-anaconda.svg" />
+<img align="left" alt="Anaconda" height="60" src="https://raw.githubusercontent.com/habc0d3r/images-repo/master/icons8-anaconda.svg" />
 
-<img align="left" alt="excel" height="40" src="https://d3j0t7vrtr92dk.cloudfront.net/stembakuniversity/1616519913_png-clipart-microsoft-excel-computer-icons-microsoft-template-angle-removebg-preview.png" />
+<img align="left" alt="excel" height="70" src="https://d3j0t7vrtr92dk.cloudfront.net/stembakuniversity/1616519913_png-clipart-microsoft-excel-computer-icons-microsoft-template-angle-removebg-preview.png" />
 
 <img align="left" src="https://user-images.githubusercontent.com/94888819/179531328-610ccc8c-11cc-40cf-82dc-5902d473b7e1.png" alt="tab" width="80" height="80"/> 
 
-<img align="left" alt="jn" height="50" src="https://user-images.githubusercontent.com/94888819/179537708-2241ab23-8c86-40c6-8fa9-f3979be75ade.png" width="50" height="50"/>
+<img align="left" alt="jn" src="https://user-images.githubusercontent.com/94888819/179537708-2241ab23-8c86-40c6-8fa9-f3979be75ade.png" width="70" height="70"/>
 
-<img align="left" src="https://user-images.githubusercontent.com/94888819/179532814-fa9beb8f-0fd6-4160-8d47-650af59c58a1.png" alt="GC" width="40" height="40"/>
+<img align="left" src="https://user-images.githubusercontent.com/94888819/179532814-fa9beb8f-0fd6-4160-8d47-650af59c58a1.png" alt="GC" width="70" height="70"/>
 
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> 
 </a> 
 </p>
 
